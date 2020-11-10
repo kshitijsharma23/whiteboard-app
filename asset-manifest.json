@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/whiteboard-app/static/css/main.a2de05bd.chunk.css",
+    "main.js": "/whiteboard-app/static/js/main.f8144e82.chunk.js",
+    "main.js.map": "/whiteboard-app/static/js/main.f8144e82.chunk.js.map",
+    "runtime-main.js": "/whiteboard-app/static/js/runtime-main.b96d9944.js",
+    "runtime-main.js.map": "/whiteboard-app/static/js/runtime-main.b96d9944.js.map",
+    "static/js/2.8c0700fb.chunk.js": "/whiteboard-app/static/js/2.8c0700fb.chunk.js",
+    "static/js/2.8c0700fb.chunk.js.map": "/whiteboard-app/static/js/2.8c0700fb.chunk.js.map",
+    "static/js/3.0e364b71.chunk.js": "/whiteboard-app/static/js/3.0e364b71.chunk.js",
+    "static/js/3.0e364b71.chunk.js.map": "/whiteboard-app/static/js/3.0e364b71.chunk.js.map",
+    "index.html": "/whiteboard-app/index.html",
+    "static/css/main.a2de05bd.chunk.css.map": "/whiteboard-app/static/css/main.a2de05bd.chunk.css.map",
+    "static/js/2.8c0700fb.chunk.js.LICENSE.txt": "/whiteboard-app/static/js/2.8c0700fb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b96d9944.js",
+    "static/js/2.8c0700fb.chunk.js",
+    "static/css/main.a2de05bd.chunk.css",
+    "static/js/main.f8144e82.chunk.js"
+  ]
+}
