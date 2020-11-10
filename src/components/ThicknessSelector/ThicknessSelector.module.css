@@ -1,0 +1,45 @@
+@import '../../variables.css';
+
+.wrapper {
+    display: flex;
+    justify-content: center;
+    top: 100px;
+    left: 120px;
+}
+
+.container {
+    height: 80px;
+    width: 180px;
+    background-color: var(--color-white);
+    border-radius: 4px;
+    margin-left: 10px;
+}
+
+.thickness-container {
+    height: 30px;
+}
+
+.thickness {
+    border-radius: 50%;
+    background-color: var(--color-dark-grey);
+    cursor: pointer;
+}
+
+.selected-thickness {
+    background-color: var(--color-theme-blue);
+}
+
+.thickness-light {
+    height: 10px;
+    width: 10px;
+}
+
+.thickness-regular {
+    height: 20px;
+    width: 20px;
+}
+
+.thickness-bold {
+    height: 30px;
+    width: 30px;
+}
